@@ -1,5 +1,7 @@
 # CodeClause_Face_Login
 
+## Face Login
+
 Set Up
 
 1. Clone the repository
